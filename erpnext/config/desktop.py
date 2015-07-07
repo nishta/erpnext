@@ -27,6 +27,12 @@ def get_data():
 			"icon": "octicon octicon-tools",
 			"type": "module"
 		},
+		"Project Management": {
+			"color": "#7f8c8d",
+			"icon": "icon-cogs",
+			"icon": "octicon octicon-squirrel",
+			"type": "module"
+		},
 		"POS": {
 			"color": "#589494",
 			"icon": "icon-th",
